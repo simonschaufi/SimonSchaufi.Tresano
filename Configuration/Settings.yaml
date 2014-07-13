@@ -1,0 +1,11 @@
+TYPO3:
+  Neos:
+    modules:
+      management:
+        submodules:
+          tresano:
+            label: 'Tresano module'
+            controller: '\TYPO3\Tresano\Controller\Module\BackendController'
+            description: 'This is the description for the awesome Tresano backend module.'
+            icon: 'icon-bar-chart'
+            resource: 'TYPO3_Tresano_Backend_Module'

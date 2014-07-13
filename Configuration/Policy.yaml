@@ -1,0 +1,16 @@
+#                                                                        #
+# Security policy for the TYPO3 Tresano package                          #
+#                                                                        #
+
+resources:
+  methods:
+    TYPO3_Tresano_Backend_Module: 'method(TYPO3\Tresano\Controller\Module\BackendController->.*Action())'
+
+acls:
+  'TYPO3.Neos:Editor':
+    methods:
+      TYPO3_Tresano_Backend_Module: GRANT
+
+  'TYPO3.Neos:Administrator':
+    methods:
+      TYPO3_Tresano_Backend_Module: GRANT
