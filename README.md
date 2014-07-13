@@ -2,8 +2,11 @@
 
 This package demonstrates what UI elements are available and how they look.
 
-Contributing
-------------
+# Where does the name Tresano come from?
+
+While I was in Spain visiting different cities, I heard the name Tresano and liked it.
+
+# Contributing
 
 I would love to see this package become a great demonstration package what is possible with NEOS:
 
