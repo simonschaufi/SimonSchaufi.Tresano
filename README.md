@@ -1,3 +1,5 @@
+[![StyleCI](https://styleci.io/repos/21789618/shield)](https://styleci.io/repos/21789618)
+
 # Neos UI demo package
 
 This package demonstrates what UI elements are available and how they look.
