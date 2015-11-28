@@ -8,11 +8,13 @@ namespace TYPO3\Tresano\Controller\Module;
 
 use TYPO3\Flow\Annotations as Flow;
 
-class BackendController extends \TYPO3\Neos\Controller\Module\AbstractModuleController {
+class BackendController extends \TYPO3\Neos\Controller\Module\AbstractModuleController
+{
 
-	/**
-	 * @return void
-	 */
-	public function indexAction() {
-	}
+    /**
+     * @return void
+     */
+    public function indexAction()
+    {
+    }
 }
