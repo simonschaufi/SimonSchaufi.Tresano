@@ -1,4 +1,4 @@
-# TYPO3 Neos UI demo package
+# Neos UI demo package
 
 This package demonstrates what UI elements are available and how they look.
 
