@@ -1,13 +1,13 @@
 {
-	"name":"typo3/tresano",
+	"name":"simonschaufi/tresano",
 	"type":"typo3-flow-package",
-	"description":"TYPO3 Neos UI demo package",
+	"description":"Neos UI demo package",
 	"require":{
 		"typo3/flow":"*"
 	},
 	"autoload":{
 		"psr-0":{
-			"TYPO3\\Tresano":"Classes"
+			"SimonSchaufi\\Tresano":"Classes"
 		}
 	}
 }
